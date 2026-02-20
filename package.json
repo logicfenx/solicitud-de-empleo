@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/solicitud-de-empleo",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a solicitud-de-empleo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/solicitud-de-empleo.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.stockbitcoin.icu/solicitud-de-empleo/"
+    },
+    "homepage": "https://www.stockbitcoin.icu/solicitud-de-empleo/"
+}
